@@ -1,0 +1,26 @@
+
+{
+  "token": "MTM1OTAxMDQ1MTE1NzE2MDE1OQ.GxYTNz.WwliOKVDWObbzFD4wrC2s2NNOo9q_tO097kO74",
+  "username": "skibidizen",
+  "password": "shenzuontop",
+  "port": "3000",
+  "clientId": "1359010451157160159",
+  "guildId": "1358839391300223126", 
+  "globalDeploy": false,
+  "status": "lexi lore lesbian sex",
+  "website": "https://www.facebook.com/profile.php?id=61556371803941",
+  "banner": "https://cdn.discordapp.com/attachments/1339790892349001759/1345705995543904387/RGB-line.gif",
+  "footer": "Skibidi Generator",
+  "genChannel": "1359013342806540339",
+  "genCooldown": "60",
+  "color": {
+    "green": "#001c81",
+    "yellow": "#001c81",
+    "red": "#001c81",
+    "default": "#001c81"
+  },
+  "command": {
+    "notfound_message": true,
+    "error_message": true
+  }
+}
